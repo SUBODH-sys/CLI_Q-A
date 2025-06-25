@@ -14,3 +14,5 @@ Five company-provided prompts were tested:
 
 ### Conclusion
 The pre-trained model achieved limited success (2/5 static, 0.2 dynamic), highlighting the need for effective fine-tuning. Future work includes expanding the dataset to ≥150 pairs, using multiple epochs, and exploring QLoRA for efficient fine-tuning to improve CLI command accuracy.
+
+Demo Link : https://drive.google.com/file/d/1NuE3yfy6fSe4afnaf6hYfCbG0IhHNRzz/view?usp=sharing
